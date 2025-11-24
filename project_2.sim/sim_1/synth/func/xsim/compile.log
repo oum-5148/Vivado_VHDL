@@ -1,5 +1,0 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/OBR/project_2/project_2.sim/sim_1/synth/func/xsim/TopLevel_func_synth.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'BinaryToTime'
-INFO: [VRFC 10-3107] analyzing entity 'ClockDivider'
-INFO: [VRFC 10-3107] analyzing entity 'Counter'
-INFO: [VRFC 10-3107] analyzing entity 'TopLevel'
