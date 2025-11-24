@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_2.srcs/sources_1/new/AnodeDecoder.vhd" \
+"../../../../project_2.srcs/sources_1/new/BinaryToTime.vhd" \
+"../../../../project_2.srcs/sources_1/new/ClockDivider.vhd" \
+"../../../../project_2.srcs/sources_1/new/Counter.vhd" \
+"../../../../project_2.srcs/sources_1/new/Mux.vhd" \
+"../../../../../Downloads/SegmentDisplay/SegmentDecoder.vhd" \
+"../../../../project_2.srcs/sources_1/new/TopLevel.vhd" \
+
+# Do not sort compile order
+nosort
